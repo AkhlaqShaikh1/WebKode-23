@@ -1,0 +1,48 @@
+.shake-on-hover {
+    transition: transform 0.3s;
+  }
+  
+
+  
+  .shake-on-hover {
+    animation: shake 0.5s forwards;
+  }
+  .recruitment-container {
+    animation: fadeIn 1s;
+  }
+  
+  .recruitment-text {
+    animation: slideUp 1s;
+  }
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+  .typing-animation {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 3s steps(40, end);
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideUp {
+    from {
+      transform: translateY(50px);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }

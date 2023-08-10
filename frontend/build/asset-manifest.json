@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cf6ff66.css",
+    "main.js": "/static/js/main.785a681b.js",
+    "static/media/background.png": "/static/media/background.670ecf911d8754e5db74.png",
+    "static/media/ai.png": "/static/media/ai.be089eb52c34d3003916.png",
+    "static/media/koderzkombat_23_future.jpg": "/static/media/koderzkombat_23_future.66d58f550322da38075c.jpg",
+    "static/media/hackathon_22_main.jpg": "/static/media/hackathon_22_main.cb1963e511e91c4f8808.jpg",
+    "static/media/react.png": "/static/media/react.1a472c1823dfc6226737.png",
+    "static/media/iconics_22_main.jpg": "/static/media/iconics_22_main.6f2e148637b43b2298f5.jpg",
+    "static/media/itec_22_main.jpg": "/static/media/itec_22_main.a5d5c167ccb5345f8256.jpg",
+    "static/media/koderzkombat_22_main.jpg": "/static/media/koderzkombat_22_main.2372e1d967430f07b44d.jpg",
+    "static/media/webkode_23_future.jpg": "/static/media/webkode_23_future.7b0d2e21169396fe401e.jpg",
+    "static/media/itec_23_main_future.jpg": "/static/media/itec_23_main_future.7a384d249135700a301b.jpg",
+    "static/media/girl-student-learning-to-code.jpg": "/static/media/girl-student-learning-to-code.2c810198af5a734f40bc.jpg",
+    "static/media/Copy_of_Gaditek-logo-removebg-preview.png": "/static/media/Copy_of_Gaditek-logo-removebg-preview.949cc49ccabbf7aa9a71.png",
+    "static/media/OIP.jpeg": "/static/media/OIP.db310abb6612c5a1ad55.jpeg",
+    "static/media/WhatsApp Image 2023-06-07 at 10.31.25 PM.jpeg": "/static/media/WhatsApp Image 2023-06-07 at 10.31.25 PM.0125765e34647eef26aa.jpeg",
+    "static/media/WhatsApp Image 2023-06-07 at 10.31.25 PM (1).jpeg": "/static/media/WhatsApp Image 2023-06-07 at 10.31.25 PM (1).5a8f7621bfaccb8f10cd.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7cf6ff66.css.map": "/static/css/main.7cf6ff66.css.map",
+    "main.785a681b.js.map": "/static/js/main.785a681b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf6ff66.css",
+    "static/js/main.785a681b.js"
+  ]
+}

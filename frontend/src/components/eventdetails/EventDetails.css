@@ -1,0 +1,67 @@
+.event-name {
+  font-size: 48px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 16px;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5); 
+}
+.winners-heading {
+  text-align: center;
+  font-size: 38px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 16px;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5); 
+}
+
+.event-date {
+  font-size: 24px;
+  color: #ffffff;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5); 
+}
+
+.description-text {
+  text-align: left;
+  font-size: 19px;
+  line-height: 1.5;
+  color: #ffffff;
+  margin-bottom: 32px;
+  margin-left: 250px;
+  margin-right: 250px; 
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); 
+  background-color: rgba(184, 107, 74, 0.8);
+  padding: 20px;
+  border-radius: 10px; 
+}
+
+.table-container-winner table {
+  border-collapse: collapse;
+  margin: auto;
+  width: 20%;
+}
+
+.table-container-winner th,
+.table-container-winner td {
+  padding: 8px;
+  text-align: left;
+  white-space: nowrap;
+
+}
+
+th {
+  font-weight: bold;
+}
+
+
+
+tbody td {
+  vertical-align: top;
+}
+
+.table-container-winner th:not(:last-child),
+.table-container-winner td:not(:last-child) {
+  padding-right: 150px;
+}
+.table-container-winner {
+  margin-bottom: 60px;
+}

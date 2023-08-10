@@ -1,0 +1,21 @@
+.member-container{
+    color: rgba(255, 255, 255, 0.87);
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+    overflow: hidden;
+    background-color: rgba(60, 60, 60, 0.4);
+    padding: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 5px;
+}
+.member-card{
+    background-color:rgb(145, 101, 75,0.8);
+    color: white;
+}
+.member-card-footer{
+    background-color: rgb(145, 101, 75,0.8);
+    border: none !important;
+    color: white;
+}

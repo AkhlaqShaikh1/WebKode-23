@@ -1,0 +1,7 @@
+.btn:focus,
+.form-control:focus,
+.react-bootstrap input:focus,
+.react-bootstrap select:focus {
+  outline: none;
+  box-shadow: none;
+}

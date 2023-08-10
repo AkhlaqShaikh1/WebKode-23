@@ -1,0 +1,11 @@
+
+.fc .fc-col-header-cell-cushion {
+    display: inline-block;
+    padding: 2px 4px;
+    color: white;
+    text-decoration: none;
+}
+.calendar{
+    background-color: rgb(201, 117, 81,0.6) !important;
+    color: white;
+}

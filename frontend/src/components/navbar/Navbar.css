@@ -1,0 +1,61 @@
+ 
+  .navbar-brand  {
+    font-size: 5rem; 
+    font-weight: bold; 
+    color: white;
+  }
+  #collasible-nav-dropdown{
+    font-size: 1rem; 
+    margin-right: 15px; 
+    color: white; 
+    text-transform: uppercase;
+
+  }
+ .icon-container{
+  display: flex;
+  flex-direction: row;
+ }
+  .facebook-icon {
+    font-size: 1rem; /* adjust size as needed */
+    margin-right: 0.2rem;
+    color: white; /* add some space between the icon and the text */
+  
+  }
+  .facebook-icon:hover {
+    color:rgb(230, 226, 226);
+  
+  }
+  .navbar-nav {
+    margin-left: auto; 
+  } 
+   .nav-link {
+    font-size: 1rem; 
+    margin-right: 15px; 
+    color: white; 
+    text-transform: uppercase;
+  }
+  .link{
+    color: white !important;;
+    text-decoration:none
+  }
+  .link:hover{
+    color:rgb(255, 255, 255) !important;
+    text-decoration:none
+  }
+  .nav-link:hover {
+    color: white; 
+  }
+  
+  .start{
+    color: white;
+    font-size: 2rem;
+  }
+  .start:hover{
+    color: white;
+  }
+
+  .main{
+    padding: 0;
+    align-items: normal;
+    
+  }

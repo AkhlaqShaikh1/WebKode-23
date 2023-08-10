@@ -1,0 +1,65 @@
+.hero-container {
+  min-height: 100vh;
+}
+
+.hero-header {
+  font-size: 5vw;
+  line-height: 1.2;
+  color: white;
+}
+
+.hero-subtext {
+  font-size: 2vw;
+  font-weight: 200;
+  color: white;
+}
+
+.btn-hero {
+  padding: 1rem 1.5rem;
+  border-radius: 2rem;
+  border: none !important;
+  font-size: 1vw;
+  background-color: rgb(115, 43, 12);
+}
+
+.btn-hero:hover {
+  background-color: rgb(115, 43, 12);
+}
+
+@media (min-width: 768px) {
+  .hero-container {
+    padding: 0 3rem;
+  }
+
+  .hero-header {
+    font-size: 3.5vw;
+    line-height: 1.1;
+  }
+
+  .hero-subtext {
+    font-size: 1.5vw;
+  }
+
+  .btn-hero {
+    font-size: 1.5vw;
+    padding: 0.75rem 1.5rem;
+    border-radius: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-header {
+    font-size: 6vw;
+    line-height: 1;
+  }
+
+  .hero-subtext {
+    font-size: 3vw;
+  }
+
+  .btn-hero {
+    font-size: 3vw;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+  }
+}

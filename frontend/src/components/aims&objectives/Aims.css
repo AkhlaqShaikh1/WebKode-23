@@ -1,0 +1,75 @@
+.aims-and-objectives-container {
+  
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+  overflow: hidden;
+  background-color: rgba(60, 60, 60, 0.4);
+  padding: 32px;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-bottom:5px ;
+}
+
+.aims-and-objectives-header {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.aims-and-objectives-text {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.aims-and-objectives-list {
+  font-size: 1.2rem;
+  color: white;
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+@media (max-width: 992px) {
+  .aims-and-objectives-header {
+    font-size: 2rem;
+  }
+
+  .aims-and-objectives-text {
+    font-size: 1.2rem;
+  }
+
+  .aims-and-objectives-list {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .aims-and-objectives-header {
+    font-size: 1.8rem;
+  }
+
+  .aims-and-objectives-text {
+    font-size: 1.1rem;
+  }
+
+  .aims-and-objectives-list {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .aims-and-objectives-header {
+    font-size: 1.5rem;
+  }
+
+  .aims-and-objectives-text {
+    font-size: 1rem;
+  }
+
+  .aims-and-objectives-list {
+    font-size: 0.9rem;
+  }
+}
